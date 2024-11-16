@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: rgb(107, 168, 152);
+    font-family: Impact, fantasy;
+    text-transform: uppercase; 
+}
+
+button{
+    background-color: white;
+    font-family: Impact, fantasy;
+    border-radius: 5px;
+    font-size: 32px;
+    padding: auto;
+    box-shadow: 4px 6px 0px black;
+    border: 4px solid;
+}
+
+#redbutton:hover{
+    background-color: rgb(107, 22, 22);
+}
+
+#bluebutton:hover{
+    background-color: rgb(49, 49, 227);
+}   
+
+#greenbutton:hover{
+    background-color: rgb(15, 83, 15);
+}
+#randombutton:hover{
+    background-color: rgb(209, 100, 224);
+}   
