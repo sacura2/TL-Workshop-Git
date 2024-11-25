@@ -1,5 +1,4 @@
-let timer = document.getElementById("timer");
-let progressBar = document.getElementById("progress-bar");
+const timer = document.getElementById("timer");
 let interval;
 let seconds = 0;
 
